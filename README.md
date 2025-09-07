@@ -1,6 +1,6 @@
 # OverTheWire-Bandit-Writeup
 
-[🇯🇵](README.jp.md)
+[JP 🇯🇵](README.jp.md)
 
 [OverTheWire](https://overthewire.org/wargames/) is a site that offers wargames for you to learn security concepts through hands-on exercises.
 [Bandit](https://overthewire.org/wargames/bandit/) is a wargame for complete beginners, not only teaching basic IT and Linux concepts, but also how to do your own research.
